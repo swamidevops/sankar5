@@ -8,6 +8,21 @@ class Child extends Base
     int x = 20;
     void shows() 
     {
+	feature Team01 changes by kiran 06-03-2025
+	public class AddNumbers {
+
+ public static void main(String[] args) {
+
+ int num1 = 5, num2 = 10, sum;
+
+ sum = num1 + num2;
+
+ System.out.println(“Sum of ” + num1 + ” and ” + num2 + ” is: ” + sum);
+
+ }
+
+}
+End feature changes  Team01
         System.out.println("The base class data member (x) by Super Keyword :" + super.x);
         System.out.println("The child class data member :" + x);
  
