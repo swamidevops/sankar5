@@ -40,3 +40,8 @@ class Main {
     System.out.println("Sum is: " + result);
   }
 }
+second time changes will done again
+int addNumbers() {
+...
+return sum;
+}
